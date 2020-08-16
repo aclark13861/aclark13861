@@ -1,5 +1,6 @@
 ### Andrew's Github
 
+![image-description](matrix.jpg)
 <!--
 **aclark13861/aclark13861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image-description](matrix.jpg)
